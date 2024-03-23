@@ -17,7 +17,7 @@ const basic = () => {
             started now</a>
     </div>
     <div className="px-6 pt-6 pb-8">
-        <h3 className="text-sm font-medium text-gray-900">What's included</h3>
+        <h3 className="text-sm font-medium text-gray-900">What is included</h3>
         <ul role="list" className="mt-6 space-y-4">
             <li className="flex space-x-3">
                 <div className="flex justify-center items-center rounded-full bg-green-100 h-5 w-5"><svg
@@ -83,7 +83,7 @@ const basic = () => {
                             clip-rule="evenodd"></path>
                     </svg>
                 </div>
-                <span className="text-sm text-gray-500">Custom branding (logo, colors, etc...)</span>
+                <span className="text-sm text-gray-500">Custom branding (logo colors etc..)</span>
             </li>
             <li className="flex space-x-3">
                 <div className="flex justify-center items-center rounded-full bg-green-100 h-5 w-5"><svg
