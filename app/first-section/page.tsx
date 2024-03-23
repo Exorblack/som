@@ -5,10 +5,8 @@ const firstsection = () => {
   return (
     <section className="hero bg-gray-800 text-white py-20 px-10 flex flex-col justify-center items-center">
       <h1 className="text-4xl font-bold mb-4">Our Service</h1>
-      
-      {/* Wrap full description and apply media query */}
-        <p className="text-xl leading-relaxed mb-8 text-center">  {/* Full description content */}
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        <p className="text-xl leading-relaxed mb-8 text-center"> 
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
         </p>
    <div className='flex gap-4 justify-center items-center'>   
   <Button className='text-md bg-blue-600 text-white hover:bg-gray-600 hover:text-white font-bold' variant="ghost">
